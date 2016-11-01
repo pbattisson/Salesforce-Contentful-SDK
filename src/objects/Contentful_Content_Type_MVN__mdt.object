@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This is a map of Contentful Content Type Ids</description>
+    <fields>
+        <fullName>Apex_Class_Name_MVN__c</fullName>
+        <externalId>false</externalId>
+        <label>Apex Class Name</label>
+        <length>255</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Content_Type_Id_MVN__c</fullName>
+        <externalId>false</externalId>
+        <label>Content Type Id</label>
+        <length>255</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>Contentful Content Type</label>
+    <pluralLabel>Contentful Content Types</pluralLabel>
+    <visibility>Protected</visibility>
+</CustomObject>
